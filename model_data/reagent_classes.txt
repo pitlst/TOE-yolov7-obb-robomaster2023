@@ -1,0 +1,4 @@
+blue_bottle
+white_bottle
+black_bottle
+reagent_bottle
